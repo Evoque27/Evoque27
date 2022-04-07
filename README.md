@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rahul Punjabi
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science & Spatial Analytics
+- 💞️ I’m looking to collaborate on Projects Based on Data Science & Spatial Analytics
+- 📫 How to reach me - rahulpunjabi2705@gmail.com
